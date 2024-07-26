@@ -3,7 +3,7 @@ function CardList() {
     //const name="DETAILS";
     const college = "SVECW ";
     const userObject = { branch: "AIDS ", year: "4" };
-    const users = ["LIKITHA", "HARSHI", "PRANATHI", "DIVYA", "DEEPU","LALLI"]
+    const users = ["LIKITHA ", "HARSHI", "PRANATHI", "DIVYA", "DEEPU","LALLI"]
     return (
         <div className="container">
             <div className="row">
